@@ -1,2 +1,2 @@
-# Student-portal-demo
+# Student-information-demo
 Learning DevOps 
